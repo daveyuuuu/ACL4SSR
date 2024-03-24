@@ -1,3 +1,6 @@
 # Paypal
-# 数量：1条
+# 数量：4条
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
