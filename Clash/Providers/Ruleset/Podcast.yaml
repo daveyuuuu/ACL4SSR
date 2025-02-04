@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,bag.itunes.apple.com
+  - DOMAIN-SUFFIX,amp-api.podcast.apple.com
+  - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN-SUFFIX,play.itunes.apple.com
+  - DOMAIN-SUFFIX,xp.apple.com
+  - DOMAIN-SUFFIX,lookup-api.apple.com
